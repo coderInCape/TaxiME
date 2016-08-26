@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TaxiME</string>
+    <string name="book">Book A Taxi</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="saved_addresses">My Saved Addresses</string>
+    <string name="profile">My Profile</string>
+    <string name="call_taxi">Call a Taxi Service</string>
+    <string name="send_message">Send a Message To a Taxi Servie</string>
+    <string name="standard_choice">Standard Texi (up to 4 passengers)</string>
+    <string name="wagon">Wagon (up to 4 passengers)</string>
+    <string name="wheelchair">Wheelchair Accessible Taxi</string>
+    <string name="maxi">Van/Maxi Taxi (5-11 passengers)</string>
+    <string name="enter_address">ENTER A NEW ADDRESS</string>
+    <string name="my_address">WHERE I AM</string>
+    <string name="my_addresses">FROM MY ADDRESSES</string>
+    <string name="from_contacts">FROM MY CONTACTS BOOK</string>
+    <string name="from_map">FROM THE MAP</string>
+    <string name="fromHistory">FROM RECENT ADDRESSES</string>
+    <string name="select_vehicle">Select Vehicle Type</string>
+    <string name="pickup_address">Pickup Address</string>
+    <string name="enter_pickup_address">Enter Pickup Address</string>
+    <string name="address_hint"><![CDATA[Number & street name]]></string>
+    <string name="suburb_hint">Suburb</string>
+    <string name="postcode">postcode</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="notes_to_driver">Notes To Driver</string>
+    <string name="notes_dialog_title">Select note(s):</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_other_info">Enter Other Info</string>
+    <string name="review_booking">Review Booking</string>
+    <string name="change_taxi_type">Change Taxi Type</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="edit_other_info">Edit Other Info</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="address_info">Address Info</string>
+    <string name="other_info">Other Information</string>
+
+
+    <string-array name="states_array">
+        <item>New South Wales</item>
+        <item>Queensland</item>
+        <item>South Australia</item>
+        <item>Tasmania</item>
+        <item>Victoria</item>
+        <item>Western Australia</item>
+    </string-array>
+
+    <string-array name="notes_array">
+        <item>None</item>
+        <item>Waiting out front</item>
+        <item>Waiting at main entrance</item>
+        <item>Waiting at back entrance</item>
+        <item>waiting at corner</item>
+        <item>Waiting at frone gate</item>
+    </string-array>
+</resources>
